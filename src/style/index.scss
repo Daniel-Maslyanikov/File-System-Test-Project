@@ -1,0 +1,21 @@
+@import "reset";
+
+body {
+	min-width: 100%;
+}
+
+
+.app {
+    min-height: 100vh;
+	background-color: #202020;
+}
+
+.sidebar {
+	width: 20%;
+    height: 100vh; 
+    position: fixed; 
+    top: 0;
+    left: 0; 
+    background-color: #232323; 
+}
+
